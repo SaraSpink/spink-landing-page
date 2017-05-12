@@ -1,0 +1,13 @@
+img {
+  width: 100%;
+  justify-content: center;
+  padding: 30px;
+}
+
+.center {
+  justify-content: center;
+  margin: 12px;
+  border: 2px solid #ABE3CD;
+  padding: 4px;
+  background-color: #DBF9ED;
+}
