@@ -4,6 +4,11 @@ img {
   padding: 30px;
 }
 
+#imagefloat {
+  max-width: 30% !important;
+  padding: 20px;
+  float: right;
+}
 .center {
   justify-content: center;
   margin: 20px;
@@ -58,4 +63,9 @@ button {
 
 .panelheight {
   height: 1000px;
+}
+
+.nav-pills>li.active>a {
+  color: white !important;
+  background-color: #ABE3CD !important;
 }
