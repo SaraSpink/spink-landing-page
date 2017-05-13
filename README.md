@@ -8,15 +8,23 @@
 
 _A landing page for my web programming portfolio which demonstrates my knowledge of HTML, CSS, Bootstrap, Git and GitHub, and good coding habits._
 
-## Support and contact details
+## Setup Instructions
 
-_Email me at spinkbot@gmail.com_
+_Visit GH Pages to view site; follow active links_
+
+## View on GitHub Pages
+
+[Sara's Portfolio Site](https://saraspink.github.io/spink-landing-page/)
 
 ## Technologies Used
 
 * HTML
 * CSS
 * Bootstrap
+
+## Support and contact details
+
+_Email me at spinkbot@gmail.com_
 
 ### License
 
