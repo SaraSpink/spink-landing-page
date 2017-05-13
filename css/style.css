@@ -22,6 +22,20 @@ img {
   border: 2px solid #ABE3CD;
   padding: 20px;
   background-color: #EEFEF8;
+  height: 900px;
+}
+
+ol {
+  float:left;
+  margin-top: 10px;
+  margin-left: 40px;
+  margin-right: 300px;
+  margin-bottom: 10px;
+}
+
+ol li a {
+  color: #3a8467;
+  font-weight: bold;
 }
 
 button {
@@ -30,7 +44,11 @@ button {
   border: 10px;
   padding: 10px;
 }
-
+.myscroll2 {
+  height: 789px;
+  border: 100px;
+  overflow-x: scroll;
+}
 .myscroll {
   height: 966px;
   border: 100px;
