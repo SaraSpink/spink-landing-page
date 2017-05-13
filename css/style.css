@@ -17,6 +17,7 @@ button {
   margin: 20px;
   border: 10px;
   padding: 10px;
+  background-color: #ABE3CD;
 }
 
 .scroll {
@@ -25,4 +26,8 @@ button {
 
 .resume-float {
   float: left;
+}
+
+.bg-darkteal {
+  background-color: #ABE3CD;
 }
