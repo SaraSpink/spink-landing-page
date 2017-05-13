@@ -5,9 +5,16 @@ img {
 }
 
 #imagefloat {
-  max-width: 30% !important;
+  width: 50%;
   padding: 20px;
   float: right;
+}
+
+#specialpadding {
+  margin: 20px;
+  border: 5px;
+  padding: 20px;
+  justify-content: space-around;
 }
 .center {
   justify-content: center;
@@ -47,10 +54,13 @@ button {
 }
 
 .mypanels {
-  justify-content: center;
-  float: left;
-  margin: 20px;
-  padding: 30px;
+  margin: 50px;
+  padding: 50px;
+}
+
+.darktealtext {
+  color: #3a8467;
+  font-weight: bold;
 }
 
 .darkteal {
